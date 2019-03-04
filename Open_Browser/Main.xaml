@@ -1,4 +1,4 @@
-﻿<Activity mc:Ignorable="sap sap2010 sads" x:Class="Main" mva:VisualBasic.Settings="{x:Null}"
+﻿<Activity mc:Ignorable="sap sap2010 sads" x:Class="Main" mva:VisualBasic.Settings="{x:Null}" sap2010:WorkflowViewState.IdRef="Main_1"
  xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities"
  xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
  xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities"
@@ -53,8 +53,8 @@
       <AssemblyReference>UiPath.System.Activities</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence>
-    <ui:OpenBrowser UiBrowser="{x:Null}" BrowserType="Chrome" DisplayName="Open Browser" Hidden="False" NewSession="True" Private="False" Url="Google.com">
+  <Sequence sap2010:WorkflowViewState.IdRef="Sequence_2">
+    <ui:OpenBrowser UiBrowser="{x:Null}" BrowserType="Chrome" DisplayName="Open Browser" Hidden="False" sap2010:WorkflowViewState.IdRef="OpenBrowser_1" NewSession="True" Private="False" Url="fast.com">
       <ui:OpenBrowser.Body>
         <ActivityAction x:TypeArguments="x:Object">
           <ActivityAction.Argument>
@@ -63,12 +63,9 @@
           <Sequence DisplayName="Do" sap2010:WorkflowViewState.IdRef="Sequence_1" />
         </ActivityAction>
       </ui:OpenBrowser.Body>
-      <sap2010:WorkflowViewState.IdRef>OpenBrowser_1</sap2010:WorkflowViewState.IdRef>
     </ui:OpenBrowser>
-    <sap2010:WorkflowViewState.IdRef>Sequence_2</sap2010:WorkflowViewState.IdRef>
-    <sads:DebugSymbol.Symbol>dzFEOlxHaXRodWJccnBhLW9wZW4tYnJvd3NlclxPcGVuX0Jyb3dzZXJcTWFpbi54YW1sBDgDRg4CAQE5BUMWAgECOY8BOZsBAgEEPws/VQIBAw==</sads:DebugSymbol.Symbol>
+    <sads:DebugSymbol.Symbol>dzFEOlxHaXRodWJccnBhLW9wZW4tYnJvd3NlclxPcGVuX0Jyb3dzZXJcTWFpbi54YW1sBDgDRA4CAQE5BUIWAgECOb8BOckBAgEEPws/VQIBAw==</sads:DebugSymbol.Symbol>
   </Sequence>
-  <sap2010:WorkflowViewState.IdRef>Main_1</sap2010:WorkflowViewState.IdRef>
   <sap2010:WorkflowViewState.ViewStateManager>
     <sap2010:ViewStateManager>
       <sap2010:ViewStateData Id="Sequence_1" sap:VirtualizedContainerService.HintSize="200,99">
