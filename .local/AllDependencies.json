@@ -422,10 +422,12 @@
   },
   "libraries": {
     "AvalonEdit/5.0.3": {
-      "sha512": "L5CgXRniZRxI/tjoBztVgZnvTL1F/qKrRJa+Q88I0Gl78WRNaqdMkuOlkAsOHTauBGZSQNDO0/X+xIpzfzmLdQ==",
+      "sha512": "C9F0FE8OcTozWqJX4m2B8CikddMQrNMY3Y4C9IP7SjFkNHEBulzW4Zmg0vXiacXfw/en2WGhtf+3Oqdu4v2siQ==",
       "type": "package",
       "path": "avalonedit/5.0.3",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "avalonedit.5.0.3.nupkg.sha512",
         "avalonedit.nuspec",
         "lib/Net35/ICSharpCode.AvalonEdit.dll",
@@ -439,6 +441,7 @@
       "type": "package",
       "path": "bouncycastle/1.8.1",
       "files": [
+        ".nupkg.metadata",
         "Readme.txt",
         "bouncycastle.1.8.1.nupkg.sha512",
         "bouncycastle.nuspec",
@@ -446,10 +449,12 @@
       ]
     },
     "Caliburn.Micro/3.0.1": {
-      "sha512": "6RaRnvbHnwm2kx9N+xyI6+qCLDJaAGsV1JgKlQ2QWApYNinpqO1GglwZdCWQ6eWj0var+XjbM8V7NYqB/C1elg==",
+      "sha512": "34GUogBL8tS1rWCSugKwaOdmZZz162JC0K3HCSPuSlkCZwA1zDTspUp7owXigOjliCSiBzP1ltBFMWpLxs9BtQ==",
       "type": "package",
       "path": "caliburn.micro/3.0.1",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "caliburn.micro.3.0.1.nupkg.sha512",
         "caliburn.micro.nuspec",
         "lib/MonoAndroid10/Caliburn.Micro.Platform.Core.dll",
@@ -508,10 +513,12 @@
       ]
     },
     "Caliburn.Micro.Core/3.0.1": {
-      "sha512": "CZPp0HVaHiW/N6JGsXpyJXnoyVRhFMY+H2uZcD24oNPczLOX1WuWsyVrSdagqUhjZnP1wV42Y6PkIUXEWWgOCg==",
+      "sha512": "rYCObUe1g/ks4kTEPMFc4yFShYWkL6P5sfUsJOPGSKPXCsnKXL0XaclU3XGWAHBeNTPBgJO9pJBfMBcaq3iyRg==",
       "type": "package",
       "path": "caliburn.micro.core/3.0.1",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "caliburn.micro.core.3.0.1.nupkg.sha512",
         "caliburn.micro.core.nuspec",
         "lib/net40/Caliburn.Micro.XML",
@@ -526,10 +533,12 @@
       ]
     },
     "ClosedXML/0.87.1": {
-      "sha512": "2LC0T8bu2G2kt34C4Ig87uZfrRO4MwMVI54e2To7m3DvwAs2Z2Ir86WQuUoW8Txo1uNGSfmu3DpfpQhSX0bIww==",
+      "sha512": "RQzcILtK3zo/7LxHGfAtYytfFvLlKLpmavCJOiiFqNIGsIMTU6bKNPdDv2k4XuuEhl8E9Wd3CXfz1CJgLEya6g==",
       "type": "package",
       "path": "closedxml/0.87.1",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "closedxml.0.87.1.nupkg.sha512",
         "closedxml.nuspec",
         "lib/net35/ClosedXML.dll",
@@ -541,10 +550,12 @@
       ]
     },
     "CsvHelper/2.13.5": {
-      "sha512": "fC8DPi/YTcZ8uXFiAeuT9EpsR2TE5cSJ2jg/4tht/Oen6az/djebpYoCQEtI33RfNrSZ533SedOknlWtUTX3fw==",
+      "sha512": "WLfJMdktrzD4OClzhzqtKBFcNFIdMJDQnRqSvI+iy/KEJVjk8oyeu6rD9tvgd+EMgua3v+qVM7jQNyGSyWscxQ==",
       "type": "package",
       "path": "csvhelper/2.13.5",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "csvhelper.2.13.5.nupkg.sha512",
         "csvhelper.nuspec",
         "lib/net20/CsvHelper.dll",
@@ -562,20 +573,24 @@
       ]
     },
     "DocumentFormat.OpenXml/2.5.0": {
-      "sha512": "H5jnox0hcLwzAjrpNqDPIItjh7dplF1kk1z8LatpI2h75wBgps1MepEttJFKs7xedQReCMHA0tGpNI0H2B+Mrg==",
+      "sha512": "fwj5a9goeOdhX3+jUELn1rsBPkN/iEx7gFRmHv5xtlhkfJpHkuIN1Lny3sNxsWQEXtGdtU04euDHgACGZBEUPQ==",
       "type": "package",
       "path": "documentformat.openxml/2.5.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "documentformat.openxml.2.5.0.nupkg.sha512",
         "documentformat.openxml.nuspec",
         "lib/DocumentFormat.OpenXml.dll"
       ]
     },
     "Extended.Wpf.Toolkit/2.8.0": {
-      "sha512": "wKjJl4sDyXTVzgiKTBTw8jT0/3OwpEklQuWGe1Nz2HX0joiBeUzIurY2mnERni+8XHwateRcuks6yk/cuR22fA==",
+      "sha512": "YzLQ/sB91g0gRftvlPGOqYJe6TwiPTQoYhO+4ZSsnxaMEQZ5KZIQySTtsTWZ0HJC5+xrgk1Z/if7kjY4cSRPdw==",
       "type": "package",
       "path": "extended.wpf.toolkit/2.8.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "extended.wpf.toolkit.2.8.0.nupkg.sha512",
         "extended.wpf.toolkit.nuspec",
         "lib/net35/WPFToolkit.dll",
@@ -600,10 +615,11 @@
       ]
     },
     "Humanizer.Core/2.4.2": {
-      "sha512": "bdHOGpZNL92TebkGuaBe/RpxUrDeRDZQLRdFPEbM+miGV1V3ITmw6iZtGYzp44DUd60Fmw5mgHG2HaFSC4hQdQ==",
+      "sha512": "ZN/Tt92UtJDZL2cJG/pgqS9ppKJo4l1YJM9qR44dNzrpuTkSTkYWJlktcp1joS+8jIQWWCkFQ4sC+Y0aR9N1Aw==",
       "type": "package",
       "path": "humanizer.core/2.4.2",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "humanizer.core.2.4.2.nupkg.sha512",
         "humanizer.core.nuspec",
@@ -614,10 +630,12 @@
       ]
     },
     "Microsoft.Exchange.WebServices/2.2.0": {
-      "sha512": "NlkaTD0uWtg9VbiWq0VDWMBPzHFknH3tmstrxt0acrT09LBGqATTjRpsGOODz6tUdX7/dehBinxsf75U5Uw/+A==",
+      "sha512": "Hh3Uhf6qrP/0CBW8hPXuptYlQQTETTB+mZDn7/HhgAsXXrvStqYzxSY+35wb9pufWryfsL+7X6tNeR7BL+3/iA==",
       "type": "package",
       "path": "microsoft.exchange.webservices/2.2.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "doc/License Terms.rtf",
         "doc/README.htm",
         "doc/Redist.txt",
@@ -632,10 +650,12 @@
       ]
     },
     "Microsoft.Rest.ClientRuntime/2.3.10": {
-      "sha512": "JO9CzV1hvjtrIzq06gJ5nNv7GV24Xz3Y3O9vx7fCe7ndNA0NmD3fZ9JUgFir2UvJ2/+9vvCo/6RXjyfywvQQIw==",
+      "sha512": "a30J6t7LRkYx974tLaRnJc/dYZ1M7uhc5vdgULxdhL7HJNJydG7e+jyAVD15gK+vFR1i9MH+5Ch9t1zhb/Lp1g==",
       "type": "package",
       "path": "microsoft.rest.clientruntime/2.3.10",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "lib/net452/Microsoft.Rest.ClientRuntime.dll",
         "lib/net452/Microsoft.Rest.ClientRuntime.runtimeconfig.json",
         "lib/net452/Microsoft.Rest.ClientRuntime.xml",
@@ -647,10 +667,12 @@
       ]
     },
     "Microsoft.VisualStudio.OLE.Interop/7.10.6071": {
-      "sha512": "PuINhJH41DbKfkNU+qcyC4Wlt/z0DgI/ViZv6gjUclylnFbUIpCdqm4fK+PKJDfiarHTKnGWkxjKuOIS1Bqs5Q==",
+      "sha512": "npYiGGt8ev8MsZxyKnLJUoT+52IWWbOmbEXiAJDoNVV0XMzYejqN52Z4ujpQDksfUhr0tIpVECM4UpYgdjYcOw==",
       "type": "package",
       "path": "microsoft.visualstudio.ole.interop/7.10.6071",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "lib/Microsoft.VisualStudio.OLE.Interop.dll",
         "lib/Microsoft.VisualStudio.OLE.Interop.xml",
         "microsoft.visualstudio.ole.interop.7.10.6071.nupkg.sha512",
@@ -662,6 +684,7 @@
       "type": "package",
       "path": "newtonsoft.json/10.0.3",
       "files": [
+        ".nupkg.metadata",
         "LICENSE.md",
         "lib/net20/Newtonsoft.Json.dll",
         "lib/net20/Newtonsoft.Json.xml",
@@ -685,10 +708,12 @@
       ]
     },
     "NPOI/2.4.1": {
-      "sha512": "85790/CY9z4DCU1KLpcdLSqaqaqmQOenTqXJfcsYK8LIKNAAoTgjT5LYLbORgdwAd63sbaJiCfB1SIn/dAXrJw==",
+      "sha512": "wFxqLySHN5OGSxE86JoS4FWBi6BD3hfORusfPQH8wEApVgJ9C32mvoXwnhUO7vjW1SGRvXVcFsi9gTXMTvxACQ==",
       "type": "package",
       "path": "npoi/2.4.1",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE",
         "Read Me.txt",
         "lib/NPOI.xml",
@@ -717,10 +742,12 @@
       ]
     },
     "SharpZipLib/1.0.0": {
-      "sha512": "YuYztmY3jEb21F6e5LIPHJjApdtzdCPQ284UzsCKNfkgW71bukFHJES6RbKi+wm053XzFg0LX5/2vj/9gl8F/g==",
+      "sha512": "9Qd0riH2GTSvmTabxVY0bH6/0joMYFKlGJU94bEnm8oudux7L3aJeQ8dKLLCZDtrosOLiWwpTKqA8Pnb4fhRTA==",
       "type": "package",
       "path": "sharpziplib/1.0.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "lib/net45/ICSharpCode.SharpZipLib.dll",
         "lib/net45/ICSharpCode.SharpZipLib.xml",
         "lib/netstandard2.0/ICSharpCode.SharpZipLib.dll",
@@ -734,6 +761,7 @@
       "type": "package",
       "path": "uipath/10.0.6992.20526",
       "files": [
+        ".nupkg.metadata",
         "build/UiPath.targets",
         "build/UiPath/BrowserNativeMessagingImpl.dll",
         "build/UiPath/FuncServer_x64.exe",
@@ -789,6 +817,7 @@
       "type": "package",
       "path": "uipath.excel.activities/2.5.1",
       "files": [
+        ".nupkg.metadata",
         "lib/net452/UiPath.Excel.Activities.Design.dll",
         "lib/net452/UiPath.Excel.Activities.dll",
         "lib/net452/UiPath.Excel.dll",
@@ -810,6 +839,7 @@
       "type": "package",
       "path": "uipath.mail.activities/1.3.0",
       "files": [
+        ".nupkg.metadata",
         "lib/net452/MailKit.dll",
         "lib/net452/MailKit.xml",
         "lib/net452/MimeKit.dll",
@@ -835,6 +865,7 @@
       "type": "package",
       "path": "uipath.system.activities/18.4.2",
       "files": [
+        ".nupkg.metadata",
         "lib/net461/ActiproSoftware.Docking.Wpf.dll",
         "lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
         "lib/net461/ActiproSoftware.Shared.Wpf.dll",
@@ -862,6 +893,7 @@
       "type": "package",
       "path": "uipath.uiautomation.activities/18.4.4",
       "files": [
+        ".nupkg.metadata",
         "build/ActiproSoftware.Docking.Wpf.dll",
         "build/ActiproSoftware.Editors.Wpf.dll",
         "build/ActiproSoftware.Ribbon.Wpf.dll",
@@ -918,6 +950,7 @@
       "type": "package",
       "path": "uipath.vision/1.2.0",
       "files": [
+        ".nupkg.metadata",
         "build/AForge.Imaging.dll",
         "build/AForge.Math.dll",
         "build/AForge.dll",

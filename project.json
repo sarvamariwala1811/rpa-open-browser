@@ -1,16 +1,16 @@
 {
   "name": "rpa-open-browser",
-  "description": "Blank Process",
-  "main": "Main.xaml",
+  "description": "Blank Library",
+  "main": "NewActivity.xaml",
   "dependencies": {
-    "UiPath.UIAutomation.Activities": "[18.4.4]",
-    "UiPath.System.Activities": "[18.4.2]",
-    "UiPath.Excel.Activities": "[2.5.1]",
-    "UiPath.Mail.Activities": "[1.3.0]"
+    "UiPath.UIAutomation.Activities": "18.4.4",
+    "UiPath.System.Activities": "18.4.2",
+    "UiPath.Excel.Activities": "2.5.1",
+    "UiPath.Mail.Activities": "1.3.0"
   },
   "schemaVersion": "3.2",
   "studioVersion": "18.4.4.0",
-  "projectVersion": "1.0.7205.22446",
+  "projectVersion": "1.0.0.0",
   "runtimeOptions": {
     "autoDispose": false,
     "excludedLoggedData": [
@@ -18,13 +18,9 @@
       "*password*"
     ]
   },
-  "projectType": "Workflow",
+  "projectType": "Library",
   "libraryOptions": {
     "includeOriginalXaml": false,
     "privateWorkflows": []
-  },
-  "arguments": {
-    "input": [],
-    "output": []
   }
 }
