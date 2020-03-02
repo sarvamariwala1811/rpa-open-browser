@@ -422,7 +422,7 @@
   },
   "libraries": {
     "AvalonEdit/5.0.3": {
-      "sha512": "C9F0FE8OcTozWqJX4m2B8CikddMQrNMY3Y4C9IP7SjFkNHEBulzW4Zmg0vXiacXfw/en2WGhtf+3Oqdu4v2siQ==",
+      "sha512": "L5CgXRniZRxI/tjoBztVgZnvTL1F/qKrRJa+Q88I0Gl78WRNaqdMkuOlkAsOHTauBGZSQNDO0/X+xIpzfzmLdQ==",
       "type": "package",
       "path": "avalonedit/5.0.3",
       "files": [
@@ -449,7 +449,7 @@
       ]
     },
     "Caliburn.Micro/3.0.1": {
-      "sha512": "34GUogBL8tS1rWCSugKwaOdmZZz162JC0K3HCSPuSlkCZwA1zDTspUp7owXigOjliCSiBzP1ltBFMWpLxs9BtQ==",
+      "sha512": "6RaRnvbHnwm2kx9N+xyI6+qCLDJaAGsV1JgKlQ2QWApYNinpqO1GglwZdCWQ6eWj0var+XjbM8V7NYqB/C1elg==",
       "type": "package",
       "path": "caliburn.micro/3.0.1",
       "files": [
@@ -513,7 +513,7 @@
       ]
     },
     "Caliburn.Micro.Core/3.0.1": {
-      "sha512": "rYCObUe1g/ks4kTEPMFc4yFShYWkL6P5sfUsJOPGSKPXCsnKXL0XaclU3XGWAHBeNTPBgJO9pJBfMBcaq3iyRg==",
+      "sha512": "CZPp0HVaHiW/N6JGsXpyJXnoyVRhFMY+H2uZcD24oNPczLOX1WuWsyVrSdagqUhjZnP1wV42Y6PkIUXEWWgOCg==",
       "type": "package",
       "path": "caliburn.micro.core/3.0.1",
       "files": [
@@ -533,7 +533,7 @@
       ]
     },
     "ClosedXML/0.87.1": {
-      "sha512": "RQzcILtK3zo/7LxHGfAtYytfFvLlKLpmavCJOiiFqNIGsIMTU6bKNPdDv2k4XuuEhl8E9Wd3CXfz1CJgLEya6g==",
+      "sha512": "2LC0T8bu2G2kt34C4Ig87uZfrRO4MwMVI54e2To7m3DvwAs2Z2Ir86WQuUoW8Txo1uNGSfmu3DpfpQhSX0bIww==",
       "type": "package",
       "path": "closedxml/0.87.1",
       "files": [
@@ -550,7 +550,7 @@
       ]
     },
     "CsvHelper/2.13.5": {
-      "sha512": "WLfJMdktrzD4OClzhzqtKBFcNFIdMJDQnRqSvI+iy/KEJVjk8oyeu6rD9tvgd+EMgua3v+qVM7jQNyGSyWscxQ==",
+      "sha512": "fC8DPi/YTcZ8uXFiAeuT9EpsR2TE5cSJ2jg/4tht/Oen6az/djebpYoCQEtI33RfNrSZ533SedOknlWtUTX3fw==",
       "type": "package",
       "path": "csvhelper/2.13.5",
       "files": [
@@ -573,7 +573,7 @@
       ]
     },
     "DocumentFormat.OpenXml/2.5.0": {
-      "sha512": "fwj5a9goeOdhX3+jUELn1rsBPkN/iEx7gFRmHv5xtlhkfJpHkuIN1Lny3sNxsWQEXtGdtU04euDHgACGZBEUPQ==",
+      "sha512": "H5jnox0hcLwzAjrpNqDPIItjh7dplF1kk1z8LatpI2h75wBgps1MepEttJFKs7xedQReCMHA0tGpNI0H2B+Mrg==",
       "type": "package",
       "path": "documentformat.openxml/2.5.0",
       "files": [
@@ -585,9 +585,10 @@
       ]
     },
     "Extended.Wpf.Toolkit/2.8.0": {
-      "sha512": "YzLQ/sB91g0gRftvlPGOqYJe6TwiPTQoYhO+4ZSsnxaMEQZ5KZIQySTtsTWZ0HJC5+xrgk1Z/if7kjY4cSRPdw==",
+      "sha512": "wKjJl4sDyXTVzgiKTBTw8jT0/3OwpEklQuWGe1Nz2HX0joiBeUzIurY2mnERni+8XHwateRcuks6yk/cuR22fA==",
       "type": "package",
       "path": "extended.wpf.toolkit/2.8.0",
+      "hasTools": true,
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -615,7 +616,7 @@
       ]
     },
     "Humanizer.Core/2.4.2": {
-      "sha512": "ZN/Tt92UtJDZL2cJG/pgqS9ppKJo4l1YJM9qR44dNzrpuTkSTkYWJlktcp1joS+8jIQWWCkFQ4sC+Y0aR9N1Aw==",
+      "sha512": "1ZKy7LHVYuhmM398hpvyWCcc2Fcx+hqiGYASELDthjWhVrsA6IabYnHRfkQFF6nGG6x4fA1D0StDX/U2Pj+FdQ==",
       "type": "package",
       "path": "humanizer.core/2.4.2",
       "files": [
@@ -630,7 +631,7 @@
       ]
     },
     "Microsoft.Exchange.WebServices/2.2.0": {
-      "sha512": "Hh3Uhf6qrP/0CBW8hPXuptYlQQTETTB+mZDn7/HhgAsXXrvStqYzxSY+35wb9pufWryfsL+7X6tNeR7BL+3/iA==",
+      "sha512": "NlkaTD0uWtg9VbiWq0VDWMBPzHFknH3tmstrxt0acrT09LBGqATTjRpsGOODz6tUdX7/dehBinxsf75U5Uw/+A==",
       "type": "package",
       "path": "microsoft.exchange.webservices/2.2.0",
       "files": [
@@ -650,7 +651,7 @@
       ]
     },
     "Microsoft.Rest.ClientRuntime/2.3.10": {
-      "sha512": "a30J6t7LRkYx974tLaRnJc/dYZ1M7uhc5vdgULxdhL7HJNJydG7e+jyAVD15gK+vFR1i9MH+5Ch9t1zhb/Lp1g==",
+      "sha512": "JO9CzV1hvjtrIzq06gJ5nNv7GV24Xz3Y3O9vx7fCe7ndNA0NmD3fZ9JUgFir2UvJ2/+9vvCo/6RXjyfywvQQIw==",
       "type": "package",
       "path": "microsoft.rest.clientruntime/2.3.10",
       "files": [
@@ -667,7 +668,7 @@
       ]
     },
     "Microsoft.VisualStudio.OLE.Interop/7.10.6071": {
-      "sha512": "npYiGGt8ev8MsZxyKnLJUoT+52IWWbOmbEXiAJDoNVV0XMzYejqN52Z4ujpQDksfUhr0tIpVECM4UpYgdjYcOw==",
+      "sha512": "PuINhJH41DbKfkNU+qcyC4Wlt/z0DgI/ViZv6gjUclylnFbUIpCdqm4fK+PKJDfiarHTKnGWkxjKuOIS1Bqs5Q==",
       "type": "package",
       "path": "microsoft.visualstudio.ole.interop/7.10.6071",
       "files": [
@@ -708,7 +709,7 @@
       ]
     },
     "NPOI/2.4.1": {
-      "sha512": "wFxqLySHN5OGSxE86JoS4FWBi6BD3hfORusfPQH8wEApVgJ9C32mvoXwnhUO7vjW1SGRvXVcFsi9gTXMTvxACQ==",
+      "sha512": "85790/CY9z4DCU1KLpcdLSqaqaqmQOenTqXJfcsYK8LIKNAAoTgjT5LYLbORgdwAd63sbaJiCfB1SIn/dAXrJw==",
       "type": "package",
       "path": "npoi/2.4.1",
       "files": [
@@ -742,7 +743,7 @@
       ]
     },
     "SharpZipLib/1.0.0": {
-      "sha512": "9Qd0riH2GTSvmTabxVY0bH6/0joMYFKlGJU94bEnm8oudux7L3aJeQ8dKLLCZDtrosOLiWwpTKqA8Pnb4fhRTA==",
+      "sha512": "YuYztmY3jEb21F6e5LIPHJjApdtzdCPQ284UzsCKNfkgW71bukFHJES6RbKi+wm053XzFg0LX5/2vj/9gl8F/g==",
       "type": "package",
       "path": "sharpziplib/1.0.0",
       "files": [
@@ -1017,9 +1018,9 @@
     "restore": {
       "projectUniqueName": "rpa-open-browser",
       "projectName": "rpa-open-browser",
-      "projectPath": "D:\\git\\rpa-open-browser\\.local",
+      "projectPath": "C:\\Users\\mtech\\Documents\\UiPath\\rpa-open-browser\\.local",
       "packagesPath": "C:\\Users\\mtech\\.nuget\\packages\\",
-      "outputPath": "D:\\git\\rpa-open-browser\\.local"
+      "outputPath": "C:\\Users\\mtech\\Documents\\UiPath\\rpa-open-browser\\.local"
     },
     "frameworks": {
       "net461": {
